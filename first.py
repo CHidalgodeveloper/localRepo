@@ -6,3 +6,6 @@ for j in range(long-1):
             lst[i],lst[i+1]=lst[i+1],lst[i]
 
 print(lst)
+
+print("hola mundo")
+
