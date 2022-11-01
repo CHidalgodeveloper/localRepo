@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+h2 {
+    color: red;
+}
+h6{
+    font-size: xx-large;
+    background: yellow;
+}
+*{
+    color: orange;
+}
+div{
+     background: #065f46;
+    }
+.a{
+    color:blue
+}
+#ci{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+[title=texto]{
+    background: white;
+}
+h2:hover{
+    background: black;
+}
